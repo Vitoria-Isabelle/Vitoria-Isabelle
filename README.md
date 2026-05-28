@@ -26,6 +26,3 @@ Aqui você encontra alguns dos projetos práticos que desenvolvi para consolidar
 * **Tecnologias:** HTML5, CSS3 (com design temático trabalhado) e JavaScript (para toda a lógica de pontuação e manipulação do DOM em tempo real).
 * **Impacto:** Projeto focado em melhorar a experiência do usuário (UX) e aplicar lógica de programação de forma dinâmica.
 
-
-
-"Construindo aplicações eficientes que já nascem seguras e prontas para o futuro."
